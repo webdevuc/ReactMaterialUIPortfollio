@@ -3,7 +3,7 @@
 Clone the repository using following command or download
 
 ```
-git clone https://github.com/devmahmud/material-ui-portfolio.git
+git clone https://github.com/webdevuc/ReactMaterialUIPortfollio.git
 ```
 
 #### To install dependency
