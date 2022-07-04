@@ -1,0 +1,7 @@
+body {
+  background: url("https://www.interamark.com/hs-fs/hubfs/design-background-portfolio.jpg?width=2000&height=845&name=design-background-portfolio.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
